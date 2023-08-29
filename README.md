@@ -2,7 +2,7 @@
 
 Welcome to my github profile!
 
-- 🔭 I’m an undergraduate student in Hainan University.
+- 🔭 I'm studying for a master's degree at SouthEast University.
 - 📫 How to reach me: [mrchen40@163.com](mailto:mrchen40@163.com) 
 - 🎨 Fun fact: I'm a middle-two boy!
 
