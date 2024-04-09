@@ -7,13 +7,14 @@ Welcome to my github profile!
 - 🎨 Fun fact: I'm a middle-two boy!
 
 
-### Research Interests
+## Research Interests
 
 - Natural Language Processing
 - Large Language Models
 - Blood Pressure Prediction
 
-### Skills
+## Skills
+
 
 - Natural Language: Chinese (Native); English (CET-6)
 - Programming Language: Python; C++; Java; Matlab
