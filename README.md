@@ -15,9 +15,8 @@ Welcome to my github profile!
 
 ## Skills
 
-
 - Natural Language: Chinese (Native); English (CET-6)
-- Programming Language: Python; C++; Java; Matlab
+- Programming Language: Python; C/C++; Java; Matlab
 - Typesetting Language: LaTeX; Markdown
 - Programming Framework: PyTorch; SpringBoot
 
