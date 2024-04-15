@@ -7,11 +7,11 @@ Welcome to my github profile!
 - 🎨 Fun fact: I'm a middle-two boy!
 
 
-## Research Interests
+## Recent Research Interests
 
+- Transformer in BP Prediction
 - Natural Language Processing
 - Large Language Models
-- Blood Pressure Prediction
 
 ## Skills
 
