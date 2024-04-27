@@ -9,9 +9,8 @@ Welcome to my github profile!
 
 ## Recent Research Interests
 
-- Transformer in BP Prediction
+- Recommendation System
 - Natural Language Processing
-- Large Language Models
 
 ## Skills
 
