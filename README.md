@@ -9,8 +9,8 @@ Welcome to my github profile!
 
 ## Recent Research Interests
 
-- Recommendation System
-- Natural Language Processing
+- Recommendation & Search
+- Back-end development
 
 ## Skills
 
