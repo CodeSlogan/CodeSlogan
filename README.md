@@ -19,6 +19,9 @@ Welcome to my github profile!
 - Typesetting Language: LaTeX; Markdown
 - Programming Framework: PyTorch; SpringBoot
 
+## Publications
+1. unKR: A Python Library for Uncertain Knowledge Graph Reasoning by Representation Learning.SIGIR 2024 [PDF](https://dl.acm.org/doi/10.1145/3626772.3657661)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CodeSlogan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
